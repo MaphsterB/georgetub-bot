@@ -1,0 +1,19 @@
+{
+  "name": "tubbot",
+  "version": "0.0.1",
+  "description": "SER GEORGETUB VON TROLLINGTON",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "keywords": [
+    "georgetub",
+    "slack",
+    "bot"
+  ],
+  "author": "maphsterb",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.9.0"
+  }
+}
