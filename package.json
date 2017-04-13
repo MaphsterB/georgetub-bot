@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node bot.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaphsterB/georgetub-bot.git"
+  },
   "keywords": [
     "georgetub",
     "slack",
@@ -13,6 +17,10 @@
   ],
   "author": "maphsterb",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaphsterB/georgetub-bot/issues"
+  },
+  "homepage": "https://github.com/MaphsterB/georgetub-bot#readme",
   "dependencies": {
     "@slack/client": "^3.9.0"
   }
